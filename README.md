@@ -305,25 +305,3 @@ A modern, feature-rich music player application built with Flutter, offering a p
    ```bash
    flutter run
    ```
-
-## Dependencies
-
-- `just_audio`: Audio playback
-- `file_picker`: File selection
-- `permission_handler`: Permission management
-- `path_provider`: File system access
-- `provider`: State management
-- `json_annotation`: JSON serialization
-- `shared_preferences`: Local storage
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
